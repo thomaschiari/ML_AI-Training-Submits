@@ -52,7 +52,7 @@ conda env create -f environment.yml
 
 3. Ative o ambiente virtual:
 ```
-conda activate ml_ai-training
+conda activate ml_ai-exercises
 ```
 
 4. Para desativar o ambiente virtual, utilize o comando:
