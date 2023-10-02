@@ -1,4 +1,4 @@
-name: ml_ai-training
+name: ml_ai-exercises
 channels:
   - defaults
 dependencies:
